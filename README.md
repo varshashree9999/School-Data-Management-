@@ -27,4 +27,22 @@ Key Highlights
 🎥 Demo Video https://drive.google.com/file/d/1fSNJBAlItQgtLMe8fi3AtvTXS3bjpsPL/view?usp=sharing
 
 
+ 📸 Screenshots
+
+**1. Active School Data**
+![Active School Data](01_Active_School_Data.jpg)
+
+**2. Business Rule Apply**
+![Business Rule Apply](02_Business_Rule_Apply.jpg)
+
+**3. Duplicate Entry Restriction**
+![Duplicate Entry Restriction](03_Duplicate_Entry_Restriction.jpg)
+
+**4. New School Record (Business Rule Applied)**
+![New School Record](04_New_School_Record.jpg)
+
+**5. Public vs Private Schools Chart**
+![Chart](05_Chart_Public_Private_Schools.jpg)
+
+
 
